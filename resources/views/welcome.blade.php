@@ -59,6 +59,9 @@
                     </header>
 
                     <main class="mt-6">
+
+
+                        
                         <div class="grid gap-6 lg:grid-cols-2 lg:gap-8">
                             <a
                                 href="https://laravel.com/docs"
